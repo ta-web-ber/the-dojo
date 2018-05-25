@@ -2,8 +2,9 @@
 
 Kon'nitchiwa little flee. 
 I'm your Senseï.
-And you need to do these katas each week.
+You need to do these katas each week.
 The more you do the better you'll be.
+Hajime!
 
 ## Week #1
 ### Regular
