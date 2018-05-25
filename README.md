@@ -1,4 +1,4 @@
-# KATAS
+# THE DOJO
 
 Kon'nitchiwa little flee. 
 I'm your Senseï.
