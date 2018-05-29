@@ -19,3 +19,10 @@ https://www.codewars.com/kata/sum-without-highest-and-lowest-number
 
 ### Bonus
 https://www.codewars.com/kata/mumbling
+
+## Week #2
+### Regular
+WIP.
+
+### Bonus
+https://www.codewars.com/kata/human-readable-duration-format/
