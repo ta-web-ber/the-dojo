@@ -30,4 +30,4 @@ WIP.
 ### Bonus
 https://www.codewars.com/kata/human-readable-duration-format/
 ### Corrections
-https://drive.google.com/open?id=1lwl79LbTwAG-QiqfDc1asw_zftvG5Tj4
+https://drive.google.com/drive/folders/1lwl79LbTwAG-QiqfDc1asw_zftvG5Tj4?usp=sharing
