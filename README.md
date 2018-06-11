@@ -31,3 +31,7 @@ WIP.
 https://www.codewars.com/kata/human-readable-duration-format/
 ### Corrections
 https://drive.google.com/drive/folders/1lwl79LbTwAG-QiqfDc1asw_zftvG5Tj4?usp=sharing
+
+## Week #4
+### Regular
+https://www.codewars.com/kata/recursion-an-introduction/javascript
