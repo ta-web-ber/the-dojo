@@ -35,6 +35,7 @@ https://www.codewars.com/kata/get-the-middle-character
 
 ### Bonus
 https://www.codewars.com/kata/human-readable-duration-format/
+
 ### Corrections
 https://drive.google.com/drive/folders/1lwl79LbTwAG-QiqfDc1asw_zftvG5Tj4?usp=sharing
 
@@ -48,3 +49,6 @@ https://www.codewars.com/kata/who-likes-it
 https://www.codewars.com/kata/maximum-subarray-sum/train/javascript
 
 https://www.codewars.com/kata/sum-strings-as-numbers/javascript
+
+### Corrections
+https://drive.google.com/open?id=18CHeSm6_dpToegxWRp4qBlPw047O1EPg
