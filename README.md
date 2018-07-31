@@ -20,6 +20,8 @@ https://www.codewars.com/kata/sum-without-highest-and-lowest-number
 ### Bonus
 https://www.codewars.com/kata/mumbling
 
+<!-- 
+
 ### Corrections
 https://drive.google.com/drive/folders/1E0y4xRIdExdqDvmS4qInlskiPQ02dC8a?usp=sharing
 
@@ -52,3 +54,6 @@ https://www.codewars.com/kata/sum-strings-as-numbers/javascript
 
 ### Corrections
 https://drive.google.com/open?id=18CHeSm6_dpToegxWRp4qBlPw047O1EPg
+
+
+-->
