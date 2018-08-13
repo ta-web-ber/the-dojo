@@ -38,10 +38,11 @@ https://www.codewars.com/kata/get-the-middle-character
 ### Bonus
 https://www.codewars.com/kata/human-readable-duration-format/
 
-<!-- 
 
 ### Corrections
 https://drive.google.com/drive/folders/1lwl79LbTwAG-QiqfDc1asw_zftvG5Tj4?usp=sharing
+
+<!-- 
 
 ## Week #4
 ### Regular
