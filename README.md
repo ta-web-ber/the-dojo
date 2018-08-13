@@ -20,7 +20,7 @@ https://www.codewars.com/kata/sum-without-highest-and-lowest-number
 ### Bonus
 https://www.codewars.com/kata/mumbling
 
-<!-- 
+
 
 ### Corrections
 https://drive.google.com/drive/folders/1E0y4xRIdExdqDvmS4qInlskiPQ02dC8a?usp=sharing
@@ -37,6 +37,8 @@ https://www.codewars.com/kata/get-the-middle-character
 
 ### Bonus
 https://www.codewars.com/kata/human-readable-duration-format/
+
+<!-- 
 
 ### Corrections
 https://drive.google.com/drive/folders/1lwl79LbTwAG-QiqfDc1asw_zftvG5Tj4?usp=sharing
