@@ -58,9 +58,8 @@ https://www.codewars.com/kata/maximum-subarray-sum/train/javascript
 https://www.codewars.com/kata/sum-strings-as-numbers/javascript
 
 
-<!-- 
 ### Corrections
 https://drive.google.com/open?id=18CHeSm6_dpToegxWRp4qBlPw047O1EPg
--->
+
 
 
